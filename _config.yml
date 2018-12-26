@@ -1,10 +1,10 @@
 title: WHAT HAPPENED?
 description: My Personal Stack Problems
 author: Jeong91
-github: https://github.com/jeong91.github.io
+github: https://jeong91.github.io
 about: I ♡ SLOTH
-disqus_shortname: stackproblems
-google_analytics: UA-XXXXXXXX-Y
+# disqus_shortname: stackproblems
+# google_analytics: UA-XXXXXXXX-Y
 avatar_url: /static/img/sloth.jpg
 
 enableTags: true
@@ -29,9 +29,9 @@ social:
    # - icon: fa-github
    #   link: "https://github.com/agusmakmun"
 
-share:
-  twitter_username: agusmakmun6
-  fb_appid: 1749788565247320
+# share:
+#   twitter_username: agusmakmun6
+#   fb_appid: 1749788565247320
 
 urls:
     - text: About Me
