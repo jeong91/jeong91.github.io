@@ -16,8 +16,8 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: instagram
-      link: "#"
+    - icon: fa-linkedin
+      link: "https://www.instagram.com/"
    # - icon: fa-facebook
    #   link: "#"
    # - icon: fa-twitter
