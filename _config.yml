@@ -57,3 +57,6 @@ compress_html:
   endings: all
   ignore:
     envs: ['development']
+
+disqus_url: 
+disqus_id: jeong
