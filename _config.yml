@@ -58,5 +58,5 @@ compress_html:
   ignore:
     envs: ['development']
 
-disqus_url: http://disqus.com/by/disqus_JlE4zIKVz2
+disqus_url: /_includes/disqus_comments.html
 disqus_id: jeong
