@@ -59,4 +59,4 @@ compress_html:
     envs: ['development']
 
 disqus_url: /_includes/disqus_comments.html
-disqus_id: jeong
+disqus_id: https-jeong91-github-io
