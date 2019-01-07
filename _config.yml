@@ -38,6 +38,8 @@ urls:
       url: /about/
     - text: Python
       url: /category/python
+    - text: Python
+      url: /category/security    
    # - text: My Projects
    #   url: /projects/
    # - text: XML Feed
