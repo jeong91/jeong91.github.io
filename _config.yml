@@ -38,7 +38,7 @@ urls:
       url: /about/
     - text: Python
       url: /category/python
-    - text: Python
+    - text: Security
       url: /category/security    
    # - text: My Projects
    #   url: /projects/
