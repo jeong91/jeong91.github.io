@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I am freelance developer. Currently doing more in backend, focused in Python and Django.
+SLOOOTH
 
-email: agus[at]python.web.id
+email: sloth9159@gmail.com
