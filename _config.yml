@@ -40,6 +40,8 @@ urls:
       url: /category/python
     - text: Security
       url: /category/security    
+    - text: Others
+      url: /category/others 
    # - text: My Projects
    #   url: /projects/
    # - text: XML Feed
