@@ -36,6 +36,8 @@ social:
 urls:
     - text: About Me
       url: /about/
+    - text: JAVA
+      url: /category/java
     - text: Python
       url: /category/python
     - text: Security
